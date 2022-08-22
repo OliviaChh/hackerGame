@@ -1,0 +1,1 @@
+Position(0, 5): Collectable(), Position(3, 5): Collectable(), Position(2, 5): Collectable(), Position(0, 6): Blocker()
